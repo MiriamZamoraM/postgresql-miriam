@@ -26,7 +26,7 @@ El otro método es mediante Terminal / Consola de Comandos
 ![psql](psql.jpg)
 2. Acceder a la Base de datos
 3. Crear la tabla para la importación de datos
-![tabla](tabla_psql)
+![tabla](tabla_psql.jpg)
 4. Copiar los datos desde el archivo
 5. Se han copiado perfectamente
 ![copiar](copy_tabla.jpg)
